@@ -1,0 +1,10 @@
+git clone https://github.com/ESolomonDev/BestFinalProject.git
+
+cd BestFinalProject
+
+git status
+
+git pull
+
+
+git checkout -b leas_branch
