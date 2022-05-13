@@ -1,10 +1,8 @@
 git clone https://github.com/ESolomonDev/BestFinalProject.git
 
-cd BestFinalProject
-
+git checkout <branch_name>		* to switch between branches
 git status
-
-git pull
-
-
-git checkout -b leas_branch
+git add .
+git commit -m "<comment>"
+push --set-upstream origin <branchName>	* push to branch
+git push
