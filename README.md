@@ -5,24 +5,24 @@
 * Python - Melani
 * Tableau – David
 
-###Project Description
+### Project Description
 
 Predict weather type based of historical weather data for charlotte.
 
-###Data Sources
+### Data Sources
 
 https://www.kaggle.com/datasets/selfishgene/historical-hourly-weather-data?select=weather_description.csv
 
-###Communication Protocols
+### Communication Protocols
 
 Slack channel
 
-###ML model(s) mockup
+### ML model(s) mockup
 * Regression
 * Clustering
 * Functional API for Sequential (Neural Net) 
 
-###Database Mockup
+### Database Mockup
 
 SQL hosted on Azure
 
