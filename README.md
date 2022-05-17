@@ -11,7 +11,7 @@ Prediction of weather type based of historical weather data for Charlotte, NC.
 
 ### Reasoning
 
-For our final project we wanted to do something close to home and kept finding very comprehensive weather datasets from multiple sources. We decided to create multiple machine learning models to predict weather based on a few recorded metrics. We were able to locate our source data that contained around 5 years of historical hourly weather data from 36 cities, and luckily Charlotte NC was included in that list. We are planning to use various machine learning models to try and predict the weather description (the target) for our models whilst using the other variables as the inputs into the model. 
+For our final project we wanted to do something close to home and kept finding very comprehensive weather datasets from multiple sources. We decided to create multiple machine learning models to predict weather based on a few recorded metrics. We were able to locate our source data that contained around 5 years of historical hourly weather data from 36 cities, and luckily Charlotte NC was included in that list. We are planning to use various machine learning models to try and predict the weather description (the target) for our models whilst using the other variables as the inputs into the models. 
 
 ### Data Sources
 
