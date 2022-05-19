@@ -1,0 +1,13 @@
+CREATE TABLE [dbo].[Results](
+	[datetime] [datetime2](7) NULL,
+	Humidity	varchar(200) null,
+	Pressure	varchar(200) null,
+	Temperature		varchar(200) null,
+	Weather_Description		varchar(200) null,
+	Wind_Direction	varchar(200) null,
+	Wind_speed		varchar(200) null,
+	Weather_Description_two_Prediction		varchar(200) null,
+	Weather_Description_Five		varchar(200) null,
+	Weather_Description_two		varchar(200) null,
+	Dropped	varchar(200) null,
+) ON [PRIMARY]
