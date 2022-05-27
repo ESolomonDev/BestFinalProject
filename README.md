@@ -48,3 +48,6 @@ We have a python script called ImportDataAndTrainModel.ipynb all the data from t
 
 3) Branches:  
 We have all created seperate branches
+
+# Tableau
+This Tableau story can be seen, in its entirety, [LINK HERE](https://public.tableau.com/app/profile/melanie.rhoden/viz/BestFinalProject_16536877692760/StoryFinal?publish=yes)
