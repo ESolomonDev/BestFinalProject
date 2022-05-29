@@ -22,6 +22,8 @@ https://www.kaggle.com/datasets/selfishgene/historical-hourly-weather-data?selec
 Slack channel  
 Webex
 
+Zoom
+
 ### ML model(s) mockup
 * Regression
 * Clustering
@@ -30,6 +32,16 @@ Webex
 ### Database Mockup
 
 SQL hosted on Azure
+
+## Tableau
+
+This Tableau story can be seen, in its entirety, [LINK HERE](https://public.tableau.com/app/profile/melanie.rhoden/viz/BestFinalProject_16536877692760/StoryFinal?publish=yes)
+
+## Presentation Link
+
+[Google Slides](https://docs.google.com/presentation/d/1DPXJdAY_6TbF73wvtwNqNIx2ekhB3iurYB-B_wn71Q8/edit?skip_itp2_check=true&pli=1#slide=id.g12e2703f504_0_1118)
+
+
 
 ### Notes so far 5/12/2022
 
@@ -47,7 +59,5 @@ Password: 9191Team1
 We have a python script called ImportDataAndTrainModel.ipynb all the data from the database has been loaded into dataframes.  We have also outlined the basic Exploratory Data Analysis in the script.
 
 3) Branches:  
-We have all created seperate branches
+We have all created separate branches
 
-# Tableau
-This Tableau story can be seen, in its entirety, [LINK HERE](https://public.tableau.com/app/profile/melanie.rhoden/viz/BestFinalProject_16536877692760/StoryFinal?publish=yes)
